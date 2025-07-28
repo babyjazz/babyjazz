@@ -7,7 +7,7 @@ on:
   # run on every push on the master/main branch
   push:
     branches:
-      - master
+      - main
 jobs:
   generate:
     runs-on: ubuntu-latest
