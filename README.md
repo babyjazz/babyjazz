@@ -18,6 +18,7 @@
 - 🚀 Solid knowledge of **performance optimization** for modern frontend apps
 - 🎯 Specialized in frontend development with extensive experience in building responsive and scalable web applications
 - 🔌 Knowledge of **WebSocket architecture** and real-time data design
+- 🤖 Proficient in **AI-driven development** with Claude, Copilot, Gemini, OpenClaw, MCP, and AI Agents
 
 
 
@@ -37,6 +38,7 @@
 | **Shell & Terminal**  | ![Zsh](https://img.shields.io/badge/Zsh-000000?style=for-the-badge&logo=gnubash&logoColor=white) ![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=apple&logoColor=white) ![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) ![Kitty](https://img.shields.io/badge/Kitty-1D1D1D?style=for-the-badge&logo=kitty&logoColor=white) ![Warp](https://img.shields.io/badge/Warp-7C3AED?style=for-the-badge&logo=warp&logoColor=white) |
 | **Editors**           | ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) ![Neovide](https://img.shields.io/badge/Neovide-222222?style=for-the-badge&logo=appveyor&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) |
 | **Languages**         | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **AI**                | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=openai&logoColor=white) |
 
 
 
